@@ -13,7 +13,7 @@
     <link href="css/animate.css" rel="stylesheet">
 
     <!-- Google Font Lato -->
-    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,900,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/font-awesome.min.css">
 
     <!-- Plugin Styles -->
